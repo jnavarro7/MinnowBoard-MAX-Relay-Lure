@@ -14,8 +14,11 @@ Omron G5LE-14 DC3
                 10A at 240VAC (12 and 24 VDC coil)
     Max. swithcing power: 140 W
     
-Omron G5LE-14 DC3
+Omron G5LE-14 DC5
     Rated curent(coil): 79.4 mA 
     Rated load: 10 A at 120 VAC; 8 A at 30 VDC
                 10A at 240VAC (12 and 24 VDC coil)
     Max. swithcing power: 140 W
+
+Optocoupler: Looking for a good option that can handle the relay coil current in its Collector-Emitter
+    
