@@ -20,5 +20,5 @@ Omron G5LE-14 DC5
                 10A at 240VAC (12 and 24 VDC coil)
     Max. swithcing power: 140 W
 
-Optocoupler: Looking for a good option that can handle the relay coil current in its Collector-Emitter
+Optocoupler: Looking for a good option that can handle the relay coil current in its Collector-Emitter, or optionally drive a transistor which would then drive the relay coil. 
     
